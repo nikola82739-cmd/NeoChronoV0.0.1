@@ -1,2 +1,7 @@
 #pragma once
-#include <>
+#include <iostream>
+#include <Colors.hpp>
+
+void main_menu(void) {
+     cout << "";
+}
